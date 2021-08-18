@@ -57,7 +57,7 @@ Read more about object detection model used, working of the algorithm, and devel
 
 * Step I: Clone the Repository
 ```sh
-      $ git clone https://https://github.com/Harshini-6/Adaptive-Traffic-Signal-Control-System
+      $ git clone https://github.com/Harshini-6/Adaptive-Traffic-Signal-Control-System
 ```
 
 * Step II: Download the weights file from [here](https://drive.google.com/file/d/1C1Rd00ZLMQrK_qEBf9PYLckIixclCYAK/view?usp=sharing) and place it in the Adaptive-Traffic-Signal-Timer/Code/YOLO/darkflow/bin directory
