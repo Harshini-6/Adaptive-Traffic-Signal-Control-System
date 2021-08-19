@@ -1,8 +1,8 @@
 <p align="center">
- <img height=200px src="./traffic-signal.jpg" alt="Traffic Signal Timer">
+ <img height=200px src="./traffic-signal.jpg" alt="Traffic Signal Cobtrol System">
 </p>
 
-<h1 align="center">Adaptive Traffic Signal Timer</h1>
+<h1 align="center">Adaptive Traffic Signal Control System</h1>
 
 <div align="center">
 
@@ -64,8 +64,8 @@ Read more about object detection model used, working of the algorithm, and devel
 
 * Step III: Install the required packages
 ```sh
-      # On the terminal, move into Adaptive-Traffic-Signal-Timer/Code/YOLO/darkflow directory
-      $ cd Adaptive-Traffic-Signal-Timer/Code/YOLO/darkflow
+      # On the terminal, move into Adaptive-Traffic-Signal-Control-System/Code/YOLO/darkflow directory
+      $ cd Adaptive-Traffic-Signal-Control-System/Code/YOLO/darkflow
       $ pip install -r requirements.txt
       $ python setup.py build_ext --inplace
 ```
